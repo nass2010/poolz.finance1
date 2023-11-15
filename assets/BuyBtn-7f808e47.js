@@ -1,0 +1,2 @@
+import{j as r}from"./index-7d09946a.js";const p=({text:t,onClick:n,className:o})=>{const s=()=>{const a="https://pancakeswap.finance/swap?outputCurrency=0xbAeA9aBA1454DF334943951d51116aE342eAB255";if(n)n();else{const e=window.open(a,"_blank","noopener");e&&(e.opener=null)}};return r.jsx("button",{className:`flex-1 text-white bg-[#010013] rounded py-3 ${o}`,onClick:s,children:t})},c=p;export{c as B};
+//# sourceMappingURL=BuyBtn-7f808e47.js.map
